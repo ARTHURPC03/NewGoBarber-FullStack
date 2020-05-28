@@ -10,7 +10,7 @@ Gobarber
 
 <div align="center" >
   <img src="./github/NewGoBarber.gif" alt="demo-web" height="425">
-  <img src="./github/appgobarber.gif" alt="demo-mobile" height="425">
+  <img src="./github/AppGobarber.gif" alt="demo-mobile" height="425">
 </div>
 
 <hr />
