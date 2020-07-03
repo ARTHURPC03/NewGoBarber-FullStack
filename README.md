@@ -1,9 +1,7 @@
 <h1 align="center">
 <br>
-  <img src="./github/logo.png" alt="Gobarber" width="120">
+  <img src="./github/logo.png" alt="Gobarber" width="200">
 <br>
-<br>
-Gobarber
 </h1>
 
 <p align="center">The monorepo of a application that allows users to schedule an appointment with their favorite barber and show the barber their schedule for the day.</p>
@@ -13,7 +11,13 @@ Gobarber
   <img src="./github/AppGobarber.gif" alt="demo-mobile" height="425">
 </div>
 
-<hr />
+# See the repositories
+
+### - [REST API](https://github.com/ARTHURPC03/NewGoBarber)
+### - [Web](https://github.com/ARTHURPC03/New-GoBarber-Web)
+### - [Mobile](https://github.com/ARTHURPC03/AppNewGoBarber)
+
+---
 
 
 ## 🚀 Technologies
@@ -45,4 +49,7 @@ This project was developed with the following technologies:
 - ✔️ Axios
 
 
-Made with ♥ by ARTHUR PC :wave: [Get in touch!](https://www.linkedin.com/in/arthurpc03/)
+Made with 💜 by ARTHUR PC 👋 [See my linkedin](https://www.linkedin.com/in/arthurpc03/)
+<br>
+
+[See my youtube channel](https://www.youtube.com/c/arthurpc)
