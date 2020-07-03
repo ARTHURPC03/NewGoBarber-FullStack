@@ -11,6 +11,8 @@
   <img src="./github/AppGobarber.gif" alt="demo-mobile" height="425">
 </div>
 
+---
+
 # See the repositories
 
 ### - [REST API](https://github.com/ARTHURPC03/NewGoBarber)
