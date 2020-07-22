@@ -1,6 +1,3 @@
-[submodule "New-GoBarber"]
-	path = New-GoBarber
-	url = https://github.com/ARTHURPC03/NewGoBarber
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/ARTHURPC03/AppNewGoBarber
