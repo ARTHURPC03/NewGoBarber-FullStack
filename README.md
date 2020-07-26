@@ -54,5 +54,10 @@ This project was developed with the following technologies:
 
 Made with 💜 by ARTHUR PC 👋 [See my linkedin](https://www.linkedin.com/in/arthurpc03/)
 <br>
+<a href="http://youtube.com/c/arthurpc">
+  <div style="align-self: center;align-items: center;" >
+    <p><img src="./github/youtube.png" alt="ARTHUR PC" style="border-radius: 50%;width: 25px; height: 25px;">
+      See my Youtube channel!</p>
+  </div>
+</a>
 
-[See my youtube channel](https://www.youtube.com/c/arthurpc)
